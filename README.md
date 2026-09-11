@@ -31,3 +31,7 @@ npm install
 npm run dev       # start the Next.js dev server
 npm run build     # static export goes to out/
 ```
+
+## License
+
+Licensed under the [Apache License 2.0](./LICENSE).
